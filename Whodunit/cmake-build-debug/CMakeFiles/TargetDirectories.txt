@@ -1,0 +1,3 @@
+C:/Users/tyyp-/Desktop/Repository/CS50/Whodunit/cmake-build-debug/CMakeFiles/Whodunit.dir
+C:/Users/tyyp-/Desktop/Repository/CS50/Whodunit/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tyyp-/Desktop/Repository/CS50/Whodunit/cmake-build-debug/CMakeFiles/rebuild_cache.dir
