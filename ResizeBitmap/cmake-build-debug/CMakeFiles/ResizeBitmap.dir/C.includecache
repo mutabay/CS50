@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/tyyp-/Desktop/Repository/CS50/ResizeBitmap/bmp.h
+stdint.h
+-
+
+C:/Users/tyyp-/Desktop/Repository/CS50/ResizeBitmap/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+bmp.h
+C:/Users/tyyp-/Desktop/Repository/CS50/ResizeBitmap/bmp.h
+

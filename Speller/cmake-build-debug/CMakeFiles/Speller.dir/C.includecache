@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/tyyp-/Desktop/Repository/CS50/Speller/dictionary.c
+ctype.h
+-
+stdbool.h
+-
+stdio.h
+-
+stdlib.h
+-
+dictionary.h
+C:/Users/tyyp-/Desktop/Repository/CS50/Speller/dictionary.h
+string.h
+-
+
+C:/Users/tyyp-/Desktop/Repository/CS50/Speller/dictionary.h
+stdbool.h
+-
+
+C:/Users/tyyp-/Desktop/Repository/CS50/Speller/speller.c
+stdio.h
+-
+ctype.h
+-
+stdio.h
+-
+sys/resource.h
+-
+sys/time.h
+-
+dictionary.h
+C:/Users/tyyp-/Desktop/Repository/CS50/Speller/dictionary.h
+
