@@ -1,3 +1,0 @@
-C:/Users/tyyp-/Desktop/Repository/C/CS50/CaesarEncryption/cmake-build-debug/CMakeFiles/CaesarEncryption.dir
-C:/Users/tyyp-/Desktop/Repository/C/CS50/CaesarEncryption/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/tyyp-/Desktop/Repository/C/CS50/CaesarEncryption/cmake-build-debug/CMakeFiles/rebuild_cache.dir
