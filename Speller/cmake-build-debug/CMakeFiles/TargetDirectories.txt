@@ -1,3 +1,0 @@
-C:/Users/tyyp-/Desktop/Repository/CS50/Speller/cmake-build-debug/CMakeFiles/Speller.dir
-C:/Users/tyyp-/Desktop/Repository/CS50/Speller/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/tyyp-/Desktop/Repository/CS50/Speller/cmake-build-debug/CMakeFiles/rebuild_cache.dir
