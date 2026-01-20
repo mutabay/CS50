@@ -2,7 +2,7 @@
 
 Harvard University's CS50 course projects in C
 
-## 📂 Projects
+## 📂 Exercises
 
 - **[CaesarEncryption](CaesarEncryption/)** - Caesar cipher encryption
 - **[Recover](Recover/)** - Recover deleted images from memory
