@@ -1,13 +1,12 @@
-# CS50
-CS50 Introduction to Computer Science Harvard University
+# CS50 - Introduction to Computer Science
 
-6 mini projects and 1 test documentation for the cs50 course
+Harvard University's CS50 course projects in C
 
+## 📂 Projects
 
-* Caesar Encryption  
-* Recover  
-* ResizeBitmap 
-* Speller
-* Vigenere
-* Whodunit
-* Questions - Test Documentation
+- **[CaesarEncryption](CaesarEncryption/)** - Caesar cipher encryption
+- **[Recover](Recover/)** - Recover deleted images from memory
+- **[ResizeBitmap](ResizeBitmap/)** - Resize bitmap images
+- **[Speller](Speller/)** - Spell checker with hash tables
+- **[Vigenere](Vigenere/)** - Vigenère cipher encryption
+- **[Whodunit](Whodunit/)** - Image forensics
